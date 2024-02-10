@@ -1,0 +1,21 @@
+#score 
+{ font-size:35px;
+  margin-left: 20px; } 
+     
+#time
+{ font-size:35px;
+ float: right;
+   margin-right: 20px; 
+ }
+
+ body 
+ { 
+    background-color:#a9f04b;
+ }
+
+ #sketch_name 
+ {
+   color:red;
+ }
+
+ 
